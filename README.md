@@ -6,6 +6,7 @@ As a Full Stack Software Engineer and Computer Science Researcher, my work focus
 - Notion: https://www.notion.so/Mohamed-Abdel-Hamid-1d027c9fc53a804c9fe9cf81e2f3fa5f
 - Github Profile: https://github.com/moh-a-abde
 - Ribbon: https://ribbonai.org/
+- LinkedIn Profile: https://www.linkedin.com/in/mohamed-abdel-hamid-024526261/
 
 ## Technical Expertise and Problem-Solving
 
