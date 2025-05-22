@@ -2,6 +2,11 @@
 
 As a Full Stack Software Engineer and Computer Science Researcher, my work focuses on designing end-to-end solutions for complex problems, exploring security vulnerabilities, and developing AI-driven detection methods. This portfolio showcases projects that reflect my technical skills and my commitment to creating software that contributes to the common good.
 
+## Links
+- Notion: https://www.notion.so/Mohamed-Abdel-Hamid-1d027c9fc53a804c9fe9cf81e2f3fa5f
+- Github Profile: https://github.com/moh-a-abde
+- Ribbon: https://ribbonai.org/
+
 ## Technical Expertise and Problem-Solving
 
 Throughout my academic journey at St. Thomas, I've developed a diverse skill set that includes full stack development, security analysis, and AI/machine learning applications. These skills have enabled me to create software solutions that address real-world challenges while maintaining a focus on ethical considerations and social impact.
